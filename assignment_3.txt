@@ -18,4 +18,6 @@ Read the data from json file and then insert into the database.
 
 You should submit python script and SQL file together. After you import data into database successfully, export it to sql file.
 
+
+
 docker exec -i e7f149f37ab2 mysqldump -u root -p assignment_3 > /Users/jacky/workspaces/cos321/assignment_3/backup.sql
