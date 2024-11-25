@@ -1,0 +1,36 @@
+[
+    {
+        "project_id": 1,
+        "project_name": "AI Development",
+        "deadline": "2024-12-31",
+        "employees": [
+            {
+                "employee_id": 1,
+                "name": "Alice Johnson",
+                "position": "Data Scientist"
+            },
+            {
+                "employee_id": 2,
+                "name": "Bob Martin",
+                "position": "Machine Learning Engineer"
+            }
+        ]
+    },
+    {
+        "project_id": 2,
+        "project_name": "Web Application",
+        "deadline": "2024-06-30",
+        "employees": [
+            {
+                "employee_id": 2,
+                "name": "Bob Martin",
+                "position": "Machine Learning Engineer"
+            },
+            {
+                "employee_id": 3,
+                "name": "Charlie Brown",
+                "position": "Full Stack Developer"
+            }
+        ]
+    }
+]

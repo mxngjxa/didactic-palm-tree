@@ -1,0 +1,20 @@
+1. Import CSV Data
+Student Table: student_id (INT), name (VARCHAR), age (INT)
+Course Table: course_id (INT), course_name (VARCHAR), credits (INT)
+Enrollment Table: student_id (INT), course_id (INT)
+Read the data from csv file and then insert into the database.
+
+2. Import XML Data
+Book Table: book_id (INT), title (VARCHAR), publication_year (INT)
+Author Table: author_id (INT), name (VARCHAR), nationality (VARCHAR)
+Book_Author Table: book_id (INT), author_id (INT)
+Read the data from xml file and then insert into the database.
+
+3. Import JSON Data
+Project Table: project_id (INT), project_name (VARCHAR), deadline (DATE)
+Employee Table: employee_id (INT), name (VARCHAR), position (VARCHAR)
+Project_Employee Table: project_id (INT), employee_id (INT)
+Read the data from json file and then insert into the database.
+
+You should submit python script and SQL file together. After you import data into database successfully, export it to sql file.
+
